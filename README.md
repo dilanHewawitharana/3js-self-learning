@@ -1,10 +1,10 @@
 # 3js-self-learning
 
-## Install dependencies (only the first time)
+Install dependencies (only the first time)
 npm install
 
-## Run the local server at localhost:8080
+Run the local server at localhost:8080
 npm run dev
 
-## Build for production in the dist/ directory
+Build for production in the dist/ directory
 npm run build
